@@ -1,0 +1,11 @@
+glossary = {
+  'Python': 'High-level programming language.',
+  'Key Value Pair': 'The method of organizing information in a python dictionary',
+  'For loop': 'A function that loops through a series of commands'
+  }
+
+print('This is my glossary:')
+for key, value in glossary.items():
+  print("\nKey: " + key)
+  print('Value: ' + value)
+	
