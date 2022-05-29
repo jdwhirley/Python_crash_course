@@ -2,7 +2,8 @@ glossary = {
   'Python': 'High-level programming language.',
   'Key Value Pair': 'The method of organizing information in a python dictionary',
   'For loop': 'A function that loops through a series of commands',
-  'Dictionary: 'Pythons built-in associative data type. A dictionary is made of key-value pairs where each key corresponds to a value.'
+  'Dictionary': 'Pythons built-in associative data type. A dictionary is made of key-value pairs where each key corresponds to a value.',
+  'single line comment': 'The symbol # denotes a comment',
   }
 
 print('This is my glossary:')
