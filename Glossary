@@ -4,6 +4,8 @@ glossary = {
   'For loop': 'A function that loops through a series of commands',
   'Dictionary': 'Pythons built-in associative data type. A dictionary is made of key-value pairs where each key corresponds to a value.',
   'single line comment': 'The symbol # denotes a comment',
+  'multi line comment': 'The symbol ''' denotes a comment that can span multiple lines, the symbol ''' must be used to open and close the comment',
+  
   }
 
 print('This is my glossary:')
